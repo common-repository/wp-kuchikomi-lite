@@ -1,0 +1,63 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-10 02:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "Kuchikomi"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Total Rating"
+msgstr ""
+
+msgid "You have already rated."
+msgstr ""
+
+msgid "Add Review:"
+msgstr ""
+
+msgid "WordPress Kuchikomi Lite"
+msgstr ""
+
+msgid "Check Multiple Ratings"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Kuchikomi Setting Box"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Post Types"
+msgstr ""
